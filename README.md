@@ -36,7 +36,7 @@ A Node.js-based backend application that supports social login functionality usi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Social_Login.git
+   git clone https://github.com/mohamed-osamaaa/Social_Login.git
    cd Social_Login
    ```
 
